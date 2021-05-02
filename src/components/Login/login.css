@@ -1,0 +1,22 @@
+.login_container{
+    margin-top: 40px;
+   
+  }
+  .login_container h1{
+  font-size: 2.5rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 900;
+  color: rgb(124, 89, 14);
+  }
+  .login_form{
+    padding: 20px;
+    background-color: lightgray;
+    width: 40vw;
+    margin: auto;
+   border-radius: 6px;
+  }
+  .bg:hover{
+    background-color: rgb(172, 204, 165);
+    color: rgb(7, 5, 2);
+    font-weight: 700;
+  }
